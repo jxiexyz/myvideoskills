@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0.0",
+  "engine": "PuppetKit SFX Preset System",
+  "supportedFormats": ["audio/wav", "audio/ogg", "audio/mpeg", "procedural_synth"],
+  "directoryStructure": {
+    "sfx": {
+      "character": "assets/audio/sfx/character/",
+      "ui": "assets/audio/sfx/ui/",
+      "camera": "assets/audio/sfx/camera/",
+      "objects": "assets/audio/sfx/objects/",
+      "finance": "assets/audio/sfx/finance/",
+      "emotional": "assets/audio/sfx/emotional/",
+      "environment": "assets/audio/sfx/environment/",
+      "comedy": "assets/audio/sfx/comedy/"
+    },
+    "music": "assets/audio/music/",
+    "ambience": "assets/audio/ambience/",
+    "voice": "assets/audio/voice/"
+  },
+  "assetStatusSummary": {
+    "totalPresets": 77,
+    "readyProcedural": 73,
+    "missingExternalFiles": 4,
+    "note": "73 presets synthesize deterministically via PuppetKit Web Audio (ready for live preview and offline WAV mixdown). 4 realistic acoustic foley presets intentionally reference external WAV paths and are transparently flagged as missing_file until user-supplied royalty-free recordings are added."
+  },
+  "missingExternalAssets": [
+    {
+      "presetId": "char_sigh_foley",
+      "category": "character",
+      "expectedPath": "assets/audio/sfx/character/char_sigh_foley.wav",
+      "licenseRequirement": "Royalty-free or original recording"
+    },
+    {
+      "presetId": "obj_door_open_foley",
+      "category": "objects",
+      "expectedPath": "assets/audio/sfx/objects/obj_door_open_foley.wav",
+      "licenseRequirement": "Royalty-free or original recording"
+    },
+    {
+      "presetId": "env_outdoor_birds_foley",
+      "category": "environment",
+      "expectedPath": "assets/audio/sfx/environment/env_outdoor_birds_foley.wav",
+      "licenseRequirement": "Royalty-free seamless loop"
+    },
+    {
+      "presetId": "com_record_scratch_foley",
+      "category": "comedy",
+      "expectedPath": "assets/audio/sfx/comedy/com_record_scratch_foley.wav",
+      "licenseRequirement": "Royalty-free or original recording"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "video": {
+    "codec_name": "h264",
+    "width": 540,
+    "height": 960,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1",
+    "duration": "5.000000",
+    "nb_read_frames": "150"
+  },
+  "iris_color_centroid_x_from_decoded_video": {
+    "center": [
+      203.045,
+      317.061
+    ],
+    "left": [
+      190.791,
+      308.59
+    ],
+    "right": [
+      212.061,
+      327.792
+    ],
+    "return_center": [
+      202.29,
+      317.435
+    ]
+  },
+  "determinism": "PASS",
+  "fixed_head_and_body": "PASS",
+  "preset_variants": "PASS",
+  "existing_preset_pixel_regressions": [
+    {
+      "char": "heroine-walk",
+      "frame": 75,
+      "identical": true
+    },
+    {
+      "char": "heroine-sit",
+      "frame": 149,
+      "identical": true
+    }
+  ],
+  "sha256": "1ec311db96bf6d3c8dc2f5484a79e53148850840d680a5b2e4615634bc1a4fcd"
+}

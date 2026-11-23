@@ -1,0 +1,39 @@
+{
+  "idle": {
+    "character": "heroine",
+    "note": "Existing slow standing animation"
+  },
+  "sit": {
+    "character": "heroine-sit",
+    "frames": 150,
+    "fps": 30
+  },
+  "walk": {
+    "character": "heroine-walk",
+    "frames": 150,
+    "fps": 30,
+    "module": "presets/walk.js",
+    "factory": "createWalkPreset"
+  },
+  "walk-loop": {
+    "character": "heroine-walk-loop",
+    "cycleFrames": 42,
+    "fps": 30,
+    "module": "presets/walk.js",
+    "factory": "createWalkPreset",
+    "options": {
+      "loop": true,
+      "travel": false,
+      "start": 0,
+      "startXPx": 0
+    }
+  },
+  "gaze-left-right": {
+    "character": "heroine-gaze",
+    "frames": 150,
+    "fps": 30,
+    "module": "presets/gaze.js",
+    "factory": "createGazePreset",
+    "composable": true
+  }
+}

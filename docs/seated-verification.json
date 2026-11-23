@@ -1,0 +1,51 @@
+{
+  "video": {
+    "codec_name": "h264",
+    "width": 540,
+    "height": 960,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1",
+    "duration": "5.000000",
+    "nb_read_frames": "150"
+  },
+  "knee_angles_degrees": {
+    "L": 88.4,
+    "R": 88.4
+  },
+  "actual_joints_final_pixels": {
+    "L": {
+      "hip": [
+        172.79999999999998,
+        687.9999999999001
+      ],
+      "knee": [
+        291.6,
+        687.9999999999002
+      ],
+      "ankle": [
+        286.2,
+        881.79999999996
+      ]
+    },
+    "R": {
+      "hip": [
+        243,
+        687.9999999999001
+      ],
+      "knee": [
+        361.8,
+        687.9999999999002
+      ],
+      "ankle": [
+        356.4,
+        881.79999999996
+      ]
+    }
+  },
+  "determinism": "PASS",
+  "frame_diff_median": 0.74,
+  "frame_diff_max": 3.838,
+  "frame_diff_max_at_transition": 36,
+  "longest_low_motion_run": 2,
+  "sha256": "63be06c442193548800d07145d4e4af6f284c264f044b4bfa2d7ea9a4360c496"
+}

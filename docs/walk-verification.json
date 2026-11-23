@@ -1,0 +1,26 @@
+{
+  "video": {
+    "codec_name": "h264",
+    "width": 540,
+    "height": 960,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1",
+    "duration": "5.000000",
+    "nb_read_frames": "150"
+  },
+  "travel_px": 150,
+  "max_foot_lift_px": {
+    "L": 77.995,
+    "R": 77.727
+  },
+  "minimum_knee_interior_angle_degrees": {
+    "L": 97.75,
+    "R": 96.24
+  },
+  "max_planted_ankle_drift_px": 5e-08,
+  "determinism": "PASS",
+  "preset_variants": "PASS",
+  "loop_pose_max_error": 8.881784197001252e-15,
+  "frame_diff_median": 1.862,
+  "sha256": "a52f47c01db5d0d5d8bd5073ec9f083b7ba6537469f861d27e4b896735b442f2"
+}

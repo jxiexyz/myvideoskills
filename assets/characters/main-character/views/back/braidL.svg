@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="2000" viewBox="0 0 1024 2000">
+  <g transform="translate(242 224.074074074)" stroke-linejoin="round" stroke-linecap="round">
+
+    <g transform="translate(364 360) scale(-1 1) rotate(-4)">
+      
+      <g transform="translate(0 0)">
+        <path d="M-26 -16 Q-14 -28 -2 -17 Q14 -26 28 -12 Q30 4 20 14 L6 33 Q-15 25 -28 4Z" fill="#382218" stroke="#140e10" stroke-width="6"/>
+        <path d="M-25 -10 Q-12 11 5 18 L16 14 L6 30 Q-11 24 -25 3Z" fill="#28160c" stroke="none"/>
+        <path d="M-18 -12 Q-5 -8 3 3 Q13 1 24 -11" fill="none" stroke="#140e10" stroke-width="3"/>
+      </g>
+      
+      <g transform="translate(4 38)">
+        <path d="M-26 -16 Q-14 -28 -2 -17 Q14 -26 28 -12 Q30 4 20 14 L6 33 Q-15 25 -28 4Z" fill="#382218" stroke="#140e10" stroke-width="6"/>
+        <path d="M-25 -10 Q-12 11 5 18 L16 14 L6 30 Q-11 24 -25 3Z" fill="#28160c" stroke="none"/>
+        <path d="M-18 -12 Q-5 -8 3 3 Q13 1 24 -11" fill="none" stroke="#140e10" stroke-width="3"/>
+      </g>
+      
+      <g transform="translate(7 75)">
+        <path d="M-26 -16 Q-14 -28 -2 -17 Q14 -26 28 -12 Q30 4 20 14 L6 33 Q-15 25 -28 4Z" fill="#382218" stroke="#140e10" stroke-width="6"/>
+        <path d="M-25 -10 Q-12 11 5 18 L16 14 L6 30 Q-11 24 -25 3Z" fill="#28160c" stroke="none"/>
+        <path d="M-18 -12 Q-5 -8 3 3 Q13 1 24 -11" fill="none" stroke="#140e10" stroke-width="3"/>
+      </g>
+      
+      <g transform="translate(9 111)">
+        <path d="M-26 -16 Q-14 -28 -2 -17 Q14 -26 28 -12 Q30 4 20 14 L6 33 Q-15 25 -28 4Z" fill="#382218" stroke="#140e10" stroke-width="6"/>
+        <path d="M-25 -10 Q-12 11 5 18 L16 14 L6 30 Q-11 24 -25 3Z" fill="#28160c" stroke="none"/>
+        <path d="M-18 -12 Q-5 -8 3 3 Q13 1 24 -11" fill="none" stroke="#140e10" stroke-width="3"/>
+      </g>
+      <path d="M8 140 L27 139 Q24 162 41 182 Q24 196 1 188 Q13 168 8 140Z" fill="#382218" stroke="#140e10" stroke-width="6"/>
+      <path d="M6 135 Q16 140 27 134 L29 147 Q19 152 6 147Z" fill="#21171c" stroke="#140e10" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

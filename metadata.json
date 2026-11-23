@@ -1,0 +1,6 @@
+{
+  "name": "PuppetKit Character Lab",
+  "description": "Reusable 2D cutout character animation template with Three.js rigging, multi-channel body motions, 16 facial expressions, gaze, and live playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

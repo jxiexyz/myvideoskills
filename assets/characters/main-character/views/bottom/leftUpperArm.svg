@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1600" viewBox="0 0 1024 1600">
+  <g stroke-linejoin="round" stroke-linecap="round">
+
+    <path d="M360 448 Q386 458 386 492 L352 612 Q324 624 294 600 L312 490 Q320 454 360 448Z" fill="#f6cfb3" stroke="#140e10" stroke-width="6"/>
+    <path d="M306 508 Q342 524 374 504 L354 610 Q320 624 288 602Z" fill="#64101d" stroke="#140e10" stroke-width="6"/>
+    <path d="M294 592 Q324 612 352 602 L346 616 Q318 626 290 604Z" fill="#450e1b" stroke="none"/>
+  
+  </g>
+</svg>

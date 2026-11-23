@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The butterfly greeting</title>
+<style>
+  body { background: #262222; color: white; margin: 16px; font: 16px system-ui; }
+  .controls { display: flex; gap: 12px; max-width: 540px; margin-bottom: 10px; }
+  input { flex: 1; }
+  #stage { width: 540px; height: 960px; }
+  canvas { display: block; width: min(540px, calc(100vw - 32px), (100vh - 80px) * .5625); }
+</style>
+<body data-mode="preview">
+  <div class="controls">
+    <button type="button">Play</button>
+    <input aria-label="Frame" type="range" min="0" max="299" value="0">
+  </div>
+  <main id="stage" aria-label="Character preview"></main>
+  <script type="module" src="../render/frame.js"></script>
+</body>
+</html>
+

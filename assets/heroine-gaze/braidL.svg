@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1280" viewBox="0 0 1024 1280">
+  <g transform="translate(242 160)" stroke-linejoin="round" stroke-linecap="round">
+    <g transform="translate(148 346) rotate(-3)">
+    <g transform="translate(0 0)">
+    <path d="M-31 -19 Q-17 -32 -2 -20 Q16 -30 33 -14 Q35 4 23 16 L7 38 Q-18 29 -33 5Z" fill="#382218" stroke="#140e10" stroke-width="6"/>
+    <path d="M-30 -12 Q-15 13 6 22 L19 17 L7 35 Q-13 28 -30 4Z" fill="#28160c" stroke="none" stroke-width="6"/>
+    <path d="M-22 -15 Q-6 -10 3 4 Q15 1 28 -13" fill="none" stroke="#140e10" stroke-width="3.2"/>
+    </g>
+    <g transform="translate(5 44)">
+    <path d="M-31 -19 Q-17 -32 -2 -20 Q16 -30 33 -14 Q35 4 23 16 L7 38 Q-18 29 -33 5Z" fill="#382218" stroke="#140e10" stroke-width="6"/>
+    <path d="M-30 -12 Q-15 13 6 22 L19 17 L7 35 Q-13 28 -30 4Z" fill="#28160c" stroke="none" stroke-width="6"/>
+    <path d="M-22 -15 Q-6 -10 3 4 Q15 1 28 -13" fill="none" stroke="#140e10" stroke-width="3.2"/>
+    </g>
+    <g transform="translate(9 87)">
+    <path d="M-31 -19 Q-17 -32 -2 -20 Q16 -30 33 -14 Q35 4 23 16 L7 38 Q-18 29 -33 5Z" fill="#382218" stroke="#140e10" stroke-width="6"/>
+    <path d="M-30 -12 Q-15 13 6 22 L19 17 L7 35 Q-13 28 -30 4Z" fill="#28160c" stroke="none" stroke-width="6"/>
+    <path d="M-22 -15 Q-6 -10 3 4 Q15 1 28 -13" fill="none" stroke="#140e10" stroke-width="3.2"/>
+    </g>
+    <g transform="translate(11 128)">
+    <path d="M-31 -19 Q-17 -32 -2 -20 Q16 -30 33 -14 Q35 4 23 16 L7 38 Q-18 29 -33 5Z" fill="#382218" stroke="#140e10" stroke-width="6"/>
+    <path d="M-30 -12 Q-15 13 6 22 L19 17 L7 35 Q-13 28 -30 4Z" fill="#28160c" stroke="none" stroke-width="6"/>
+    <path d="M-22 -15 Q-6 -10 3 4 Q15 1 28 -13" fill="none" stroke="#140e10" stroke-width="3.2"/>
+    </g>
+    <path d="M-25 -31 Q-3 -41 24 -29 L23 -16 Q0 -9 -25 -18Z" fill="#21171c" stroke="#140e10" stroke-width="4"/>
+    <path d="M-21 -28 Q-2 -35 19 -27 L18 -22 Q0 -17 -21 -23Z" fill="#28160c" stroke="none" stroke-width="6"/>
+    <path d="M11 161 L33 160 Q29 186 49 210 Q29 226 2 217 Q16 193 11 161Z" fill="#382218" stroke="#140e10" stroke-width="6"/>
+    <path d="M17 168 L25 168 Q23 190 38 213 L28 217 Q12 202 17 168Z" fill="#28160c" stroke="none" stroke-width="6"/>
+    <path d="M8 155 Q19 161 32 154 L35 169 Q23 175 8 169Z" fill="#21171c" stroke="#140e10" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
+

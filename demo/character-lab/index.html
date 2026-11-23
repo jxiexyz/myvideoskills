@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PuppetKit Character Lab (Standalone)</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <div class="stage-col">
+        <header class="topbar">
+          <div class="topbar-left">
+            <h1>PuppetKit Character Lab</h1>
+            <select id="characterSelect" aria-label="Character rig">
+              <option value="main-character">Main Character (Heroine)</option>
+              <option value="minimal-starter">Minimal Starter (Demo Rig)</option>
+            </select>
+          </div>
+          <div class="topbar-right">
+            <button id="btnZoom" type="button">Face Zoom</button>
+            <button id="btnDebug" type="button">Rig Debug</button>
+          </div>
+        </header>
+        <main id="stage"></main>
+        <footer class="transport">
+          <div id="statusBar" class="status-bar">Loading...</div>
+          <div class="controls-bar">
+            <label>Speed <input id="speedSlider" type="range" min="0.25" max="2" step="0.05" value="1" /> <span id="speedVal">1.00x</span></label>
+            <button id="btnLoop" type="button">Loop: Auto</button>
+            <button id="btnTalk" type="button">Talk</button>
+            <button id="btnBlink" type="button">Blink</button>
+            <button id="btnStop" type="button">Stop</button>
+            <button id="btnReset" type="button">Reset Pose</button>
+          </div>
+        </footer>
+      </div>
+      <aside id="inspector" class="inspector"></aside>
+    </div>
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>
